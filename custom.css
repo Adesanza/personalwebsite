@@ -1,0 +1,80 @@
+body{
+    font-family: 'Handlee' , cursive ;
+}
+.nav-item{
+    text-align: center;
+}
+
+#intro {
+    background: url("write.jpg")no-repeat center center fixed;
+    width: 100%;
+    height: 750px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.top-nav-collapse {
+    background-color: #24355C;
+}
+.check-work {
+    border-color: #fff;
+    color: #fff;
+    width: 20%;
+    margin: 3.75em auto 0 auto;
+    font-size: 1em;
+    padding: 1.5em 0;
+}
+.check-work button{
+    border: 2px solid transparent;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    text-decoration: none;
+}
+footer {
+    padding: 1em 0 7em 0;
+    background: #252525;
+    display: block;
+}
+#copy {
+    text-align: center;
+    color: #cccccc;
+    color: rgba(255, 255, 255, 0.2);
+}
+.page-wrap {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 1600px;
+}
+.follow-links-container {
+    display: table;
+    margin: 1em auto 0 auto;
+}
+#follow-links li {
+    float: left;
+    margin: 5px;
+}
+#follow-links a {
+    background: #333333;
+    background: rgba(0, 0, 0, 0.2);
+    text-transform: uppercase;
+    border: 2px solid transparent;
+    display: block;
+    margin: 0 auto;
+    color: #cccccc;
+    color: rgba(255, 255, 255, 0.2);
+    padding: 7px;
+    line-height: 2em;
+    text-align: center;
+    text-decoration: none;
+    text-align: center;
+}
+#contactme h2 {
+    text-align: center;
+    font-size: 2.5em;
+    letter-spacing: 4px;
+    font-weight: bold;
+    margin-bottom: 0.625em;
+    text-transform: uppercase;
+}
